@@ -4773,4 +4773,3 @@ OMX_ERRORTYPE omx_video::push_input_buffer(OMX_HANDLETYPE hComp)
    }
   return ret;
 }
-
